@@ -31,7 +31,7 @@ namespace wHiteRabbiT.UnityEditor
 		public static void CreateAboutEW()
 		{
 			AboutEW wnd = GetWindow<AboutEW>();
-			wnd.title = "wHiteRabbiT sTudio - About";
+			wnd.titleContent = new GUIContent("wHiteRabbiT sTudio - About");
 		}
 		
 		#region Destroy
