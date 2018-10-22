@@ -2,12 +2,12 @@
   "source": "Unity",
   "applications": [
     {
-      "app_key": "application.generated.unity.alicebackup.exe",
+      "app_key": "application.generated.unity.alicetemp.exe",
       "launch_type": "url",
       "url": "steam://launch/",
       "strings": {
         "en_us": {
-          "name": "AliceBackup [Testing]"
+          "name": "AliceTemp [Testing]"
         }
       }
     }
