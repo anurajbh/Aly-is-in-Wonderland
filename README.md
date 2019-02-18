@@ -1,5 +1,5 @@
-# Aly-is-in-Wonderland
-"What's up in Wonderland" is a VR project at Georgia Institute of Technology, for the Project Studio course. The project is in the Unity Engine, for the Samsung Odyssey. 
+# What's-up-in-Wonderland?
+"What's up in Wonderland?" is a VR project at Georgia Institute of Technology, for the Project Studio course. The project is in the Unity Engine, for the Samsung Odyssey. 
 
 Note- This project was moved to Unity Collab, where it was completed. 
 
